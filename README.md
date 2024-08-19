@@ -5,7 +5,7 @@
 This project focuses on modeling and analyzing Instagram-like data using SQL. It covers the creation, management, and querying of key database tables such as Users, Posts, Comments, Likes, and Followers. The repository is designed to provide insights into user behavior, post engagement, and overall account interactions through SQL-based operations.
 
 ## Data Model
-![instagram_data_model](data-model/instagram_data_model.png)
+![instagram_data_model](data_model/instagram_data_model.png)
 
 ### Key Components
 
