@@ -4,6 +4,11 @@
 
 This project focuses on modeling and analyzing Instagram-like data using SQL. It covers the creation, management, and querying of key database tables such as Users, Posts, Comments, Likes, and Followers. The repository is designed to provide insights into user behavior, post engagement, and overall account interactions through SQL-based operations.
 
+## Technologies Used
+
+![SQL](https://img.shields.io/badge/SQL-blue?logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-red?logo=microsoft-sql-server&logoColor=white)
+
 ## Data Model
 ![instagram_data_model](data_model/instagram_data_model.png)
 
