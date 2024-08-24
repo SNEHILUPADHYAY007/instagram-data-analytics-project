@@ -7,6 +7,11 @@ This project focuses on modeling and analyzing Instagram-like data using SQL. It
 ## Data Model
 ![instagram_data_model](data_model/instagram_data_model.png)
 
+![Redux](https://img.shields.io/badge/redux-blue)
+![React](https://img.shields.io/badge/react-blue)
+![React Router](https://img.shields.io/badge/react--router-blue)
+
+
 ### Key Components
 
 1. **Database Schema (DDL)**:  
