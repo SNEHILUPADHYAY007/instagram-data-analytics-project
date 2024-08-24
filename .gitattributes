@@ -1,0 +1,5 @@
+# Treat all .sql files as SQL
+*.sql linguist-language=SQL
+
+# Treat specific files as SQL Server if you use specific extensions like .mssql
+*.mssql linguist-language=SQL
